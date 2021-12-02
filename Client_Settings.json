@@ -1,0 +1,15 @@
+{
+"Guild_ID": "",    
+"Developer_ID": "",
+"Mongo_URL": "",
+"Taglı_Alım": false,
+
+"Tag": "",
+"SecondaryTag": "•",
+
+"Client_Token": "",
+"Client_Prefixs": ["!", "."],
+"Client_Voice_ID": "",
+"Client_Message": "Striga Code",
+"Client_Status": "dnd"
+}

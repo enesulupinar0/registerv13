@@ -1,0 +1,21 @@
+{
+  "name": "striga-registy",
+  "version": "0.0.1",
+  "description": "Striga V13 Register",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Striga",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.2.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^6.0.12"
+  }
+}

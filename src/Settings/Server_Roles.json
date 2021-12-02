@@ -1,0 +1,16 @@
+{
+    "ManRole": "",
+    "ManRoles": [],
+
+    "WomanRole": "",
+    "WomanRoles": [],
+
+    "UnregisterRole": "",
+    "UnregisterRoles": [],
+
+    "TagRole": "",
+    "SuspectRole": "",
+    "JailRole": "",
+    "VipRole": "",
+    "RegisterDisabledRoles": []
+}
